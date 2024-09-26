@@ -1,21 +1,56 @@
-# Food Truck Card Component
+# Web Development Project 1 - *Community App*
 
-A React component that displays information about a food truck or food event. The component includes the name, cuisine type, image, and a link to the menu. It is styled with an external CSS file and can be used in various projects, such as community boards or event listings.
+Submitted by: **Surbhie**
 
-## Table of Contents
+This web app: **Community Event App**
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Props](#props)
-- [Styling](#styling)
-- [Example](#example)
-- [License](#license)
+Time spent: **3** hours spent in total
 
-## Installation
+## Required Features
 
-Follow these steps to integrate the `FoodTruck` component into your React project.
+The following **required** functionality is completed:
 
-### Step 1: Clone or download the project
+- [x ] **There is a unique theme for events or resources relevant to a specific community**
+- [ x] **At least 10 unique resources or events are displayed in a responsive card format**
 
-```bash
-git clone https://github.com/your-username/your-repo.git
+The following **optional** features are implemented:
+
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
+
+The following **additional** features are implemented:
+
+* [ ] List anything else that you added to improve the site's functionality!
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZqZTZwM3F6dHZkd3U5bnNpZzRuejE0ejQxcm8yMzhsbDU4ZWJtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rI04zmSJe7DMSCI4SI/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
