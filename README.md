@@ -2,7 +2,7 @@
 
 Submitted by: **Surbhie**
 
-This web app: **Community Event App**
+This web app: ** Food Community Event App**
 
 Time spent: **3** hours spent in total
 
