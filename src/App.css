@@ -1,0 +1,16 @@
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Creates flexible grid columns */
+  gap: 20px; /* Adds space between cards */
+  padding: 20px;
+}
+
+
